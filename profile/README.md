@@ -14,7 +14,7 @@ We have __Intel Core™ i9-9900K__ processors to ensure you have the best speeds
 
 ## Information
 
-**Email:** `admin àt viteza dôt cloud`
+**Email:** `contact àt viteza dôt cloud`
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/VitezaCloud.svg?style=social&label=Follow%20%40VitezaCloud)](https://twitter.com/VitezaCloud)
 [![Website](https://img.shields.io/badge/Website-viteza.cloud-red)](https://viteza.cloud)
